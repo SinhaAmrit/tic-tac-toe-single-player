@@ -7,6 +7,6 @@ root.render(
   <React.StrictMode>
     <h1>Tic-Tac-Toe</h1>
     <App />
-    <div className='footer'>Made with ❤ by <a href='https://github.com/SinhaAmrit' target='_blank' rel='noopener noreferrer'>Amrit Sinha</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href='https://tic-tac-toe-fun.vercel.app/' target='_blank' rel='noopener noreferrer'>Try Two Player Mode 😉</a> </div>
+    <div className='footer'>Made with ❤ by <a href='https://github.com/SinhaAmrit/tic-tac-toe-single-player' target='_blank' rel='noopener noreferrer'>Amrit Sinha</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href='https://tic-tac-toe-single-player.vercel.app/' target='_blank' rel='noopener noreferrer'>Try Two Player Mode 😉</a> </div>
   </React.StrictMode>
 );
